@@ -21,6 +21,7 @@ public class szamjegyek {
         }
 
         
+        
         //1.B feladat ---------------------------------------
         System.out.print("_i_smétléssel v. _n_élküle? (i/n): ");
         boolean ism2 = scanner.nextLine() == "i";//lerovidetük egy ternális operátorral a ism értékadását és scener 2. soreát
